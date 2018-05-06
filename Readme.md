@@ -11,3 +11,5 @@ Conexão com Github estabelecida com sucesso!
 
 Email: [diego.lisboa.pires@hotmail.com](diego.lisboa.pires@hotmail.com)
 
+Git auxiliar muito no versionamento.
+
