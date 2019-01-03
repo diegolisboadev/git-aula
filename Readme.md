@@ -1,15 +1,14 @@
 # Github
 
-Git e Github para Iniciantes
+Git e Github para Iniciantes Udemy,Inc
+Email: [https://www.udemy.com/share/1000cwAkQedltSTHg=/](https://www.udemy.com/share/1000cwAkQedltSTHg=/)
+
 Estou aprendendo e achando a ferramenta incrivel
 
-Gostei do Curso quero mais, não tenho cafê kkkk
+Excelente curso.
 
 SHOW DE COMANDOS .git e Github
 
-Conexão com Github estabelecida com sucesso!
-
-Email: [diego.lisboa.pires@hotmail.com](diego.lisboa.pires@hotmail.com)
+Meu Email:[diego.lisboa.pires@hotmail.com](diego.lisboa.pires@hotmail.com)
 
 Git auxiliar muito no versionamento.
-kkkkkkkkkkkk
